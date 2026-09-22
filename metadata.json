@@ -1,0 +1,7 @@
+{
+  "name": "MR. 7 — Premium Digital Store",
+  "description": "High-end digital marketplace for TikTok UK earning accounts, live features, and TikTok coin packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
